@@ -1,0 +1,12 @@
+# 忽略 .DS_Store
+.DS_Store
+
+# 忽略日志文件
+*.log
+
+# 忽略临时文件
+*.tmp
+
+# 忽略某个目录
+/node_modules
+/tmp
